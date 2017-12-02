@@ -1,0 +1,223 @@
+body {
+    z-index: 5;
+    font-family: Lato, Helvetica, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    background-color: #fff;
+    overflow-x: hidden;
+}
+
+.main-content {
+    color: #fff;
+    text-align: center;
+    vertical-align: baseline;
+    text-rendering: optimizeLegibility;
+    display: block;
+    margin-top: -100%;
+}
+.main-content .Preview-Title {
+    font-family: 'Josefin Sans', sans-serif;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 1.4;
+    margin: 8px 0;
+    color: #fff;
+}
+.main-content p {
+    font-family: 'Lato', sans-serif;
+    font-size: 19px;
+    font-weight: 200;
+    line-height: 1.6;
+}
+
+section.Testimonies-Preview {
+    background: -webkit-linear-gradient(bottom left, #ff9966, #ff5e62);
+    background: -o-linear-gradient(bottom left, #ff9966, #ff5e62);
+    background: linear-gradient(to top right, #ff9966, #ff5e62);
+    position: relative;
+    padding-top: 100%;
+    padding-bottom: 25px;
+    color: #4A4A4A;
+}
+section.Testimonies-Preview .Amenities-Content {
+    height: 75vh;
+    background-size: cover;
+    color: white;
+}
+section.Testimonies-Preview .Amenities-Content .intro {
+    height: 100%;
+    width: 40%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    flex-direction: column; 
+    margin-left: 50%;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: left;
+}
+section.Testimonies-Preview .Amenities-Content .intro-content {
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal
+}
+section.Testimonies-Preview .Amenities-Content .intro h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+section.Testimonies-Preview .Amenities-Content .intro li {
+    font-weight: 100;
+}
+section.Testimonies-Preview .Testimonials-row hr {
+    width: 50%;
+    margin-bottom: 25px;
+}
+section.Testimonies-Preview .Testimonials-row h1{
+    font-weight: 500;
+    font-size: 1.7em;
+    text-transform: uppercase;
+    letter-spacing: 4.09px;
+    margin-bottom: 20px;
+}
+section.Testimonies-Preview .Testimonial-Content {
+    font-weight: 400;
+    font-size: 1.125em;
+    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 24px;
+    text-align: left;
+}
+section.Testimonies-Preview h3 {
+    font-size: 1.25em;
+    font-weight: 500;
+    font-style: normal;
+    line-height: 1.4;
+    outline-color: initial;
+    font-family: 'Open Sans', sans-serif;
+    margin-bottom: -5px;
+    text-align: center;
+}
+section.Testimonies-Preview h3::before {
+    content: "-";
+    margin-right: 5px;
+}
+section.Testimonies-Preview .Autoplay-Testimonials {
+    margin: 50px auto;
+    height: 80%;
+}
+section.Testimonies-Preview .Testimonial-Source {
+    font-size: .875em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+}
+section.Testimonies-Preview .Testimonial-View-More {
+    margin: 25px auto;
+}
+
+section.Contact-Preview {
+    background: -webkit-linear-gradient(bottom left, #ff9966, #ff5e62);
+    background: -o-linear-gradient(bottom left, #ff9966, #ff5e62);
+    background: linear-gradient(to top right, #ff9966, #ff5e62);
+    display: flex;
+    justify-content: center;
+}
+section.Contact-Preview .Contact-Content {
+    display: flex;
+    justify-content: center;
+    padding: 35px 72px;
+}
+section.Contact-Preview .Contact-Content h1 {
+    display: block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+section.Contact-Preview .Contact-Content button {
+    margin: 10px 0 10px 25px;
+    height: 40px;
+}
+.column, .columns {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+}
+
+@media (max-width: 970px) {
+    section.landing .content .intro {
+        width: 50%;
+        position: relative;
+        display: flex;
+        align-items: center;
+        height: 400px;
+        flex-direction: column;
+        margin-left: 50%;
+        text-align: left;
+        background-color: rgba(0, 0, 0, 0.5);
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    section.landing .content .intro .img-circle {
+        width: 150px;
+        height: 150px;
+    }
+}
+/* Navbar Collapse Engage */
+@media (max-width: 767px) {
+    section.landing .content .intro {
+        width: 100%;
+        position: relative;
+        display: flex;
+        align-items: center;
+        height: 500px;
+        flex-direction: column;
+        margin-left: 0;
+        text-align: left;
+        background-color: rgba(0, 0, 0, 0.5);
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .navbar-header {
+        min-height: 78px;
+    }
+    .navbar-default hr {
+        margin-top: 0;
+        width: 100%;
+    }
+    .navbar-default .navbar-collapse {
+        border-color: #fff;
+    }
+    .container-fluid > .navbar-collapse {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+    .navbar-left {
+        padding-right: 0px;
+    }
+    .navbar-right {
+        padding-left: 0px;
+    }
+    .navbar-collapse ul {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .navbar-collapse ul > li {
+        width: 130px;
+        text-align: center;
+    }
+    .collapsing {
+        display: flex;
+    }
+    .collapse.in {
+        display: flex;
+    }
+    
+}
+@font-face {
+    font-family: 'Apple-Chancery';
+    src: url('../fonts/Apple_Chancery-webfont.ttf') format('truetype'),
+         url('../fonts/Apple_Chancery-webfont.woff') format('woff');
+}
+
+
+/*https://thefallseventcenter.com/#/ */

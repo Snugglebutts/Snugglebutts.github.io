@@ -1,0 +1,336 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <title>The Right Place</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <link href="Content/Header.css" rel="stylesheet" />
+    <link href="Content/Landing-Page.css" rel="stylesheet" />
+    <link href="Content/Footer.css" rel="stylesheet" />
+    <script src="scripts/jquery-3.1.1.min.js"></script>
+    <script src="scripts/bootstrap.min.js"></script>
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Ropa+Sans:400,400italic" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Cabin+Condensed:400,500|Josefin+Sans:300,400|Montserrat:300,400|Prompt|Proza+Libre|Reem+Kufi|Rubik|Open+Sans|Saira+Semi+Condensed|Spinnaker|Lato:300,300i,400,400i" rel="stylesheet" type="text/css" />
+    <link href="fonts/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="Content/slick.css">
+    <link rel="stylesheet" type="text/css" href="Content/slick-theme.css">
+    <style type="text/css">
+        html, body {
+          margin: 0;
+          padding: 0;
+        }
+
+        * {
+          box-sizing: border-box;
+        }
+
+        .slider {
+            width: 100%;
+            margin: 100px auto;
+        }
+
+        .slick-slide {
+          margin: 0px 20px;
+          width: 50%;
+        }
+        .slick-slide:focus {
+          outline: 0;
+        }
+
+        .slick-slide img {
+          width: 100%;
+        }
+
+        .slick-prev:before,
+        .slick-next:before {
+          color: black;
+        }
+        
+        .slick-track {
+            width: 100%;
+        }
+
+        .slick-slide {
+          transition: all ease-in-out .3s;
+          opacity: .5;
+        }
+
+        .slick-active {
+          opacity: 1;
+        }
+
+        .slick-current {
+          opacity: 1;
+        }
+    </style>
+</head>
+
+<body class="landing-page" id="page-top">
+    <div id="wrapper">
+        <header class="container main-header">
+            <div class="navbar navbar-default">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-list">
+                            <span class="sr-only">Toggle Navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div class="brand-centered">
+                        <a class="TRPLogo" href="Landing-Page.html">
+                            <img class="TRPImage" src="images/TheRightPlaceLogo-White.png" alt="The Right Place" style="" />
+                        </a>
+                    </div>
+                    <div class="collapse navbar-collapse" id="navbar-list">
+                        <ul class="nav navbar-nav navbar-left">
+                            <li class="hidden">
+                                <a href="#page-top"></a>
+                            </li>
+                            <li>
+                                <a href="Contactus.aspx">Contact Us</a>
+                            </li>
+                            <li>
+                                <a href="RoomFeaturePage.html">Amenities</a>
+                            </li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li>
+                                <a href="Aboutus.aspx">About Us</a>
+                            </li>
+                            <li>
+                                <a href="Gallery.aspx">Gallery</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <hr>
+                </div>
+            </div>
+        </header>
+        
+        
+        <!-- Main Landing Page Content -->
+
+        <div class="main-content">
+
+            <!-- Landing Section -->
+            <section class="landing">
+                <div class="content" style="background-image: url(images/wedding-tables-2.png);"">
+                    <!-- Image Overlay Content -->
+                    <div class="intro">
+                        <!-- Circle Image W/ White Outline -->
+                        <img class="img-circle" src="images/married-couple-02.jpg">
+                        <h1 class="item item-top">A Venue for All Your Needs</h1>
+                        <hr>
+                        <p class="item item-bottom">
+                            From weddings to the plays, baby showers to birthdays, business conferences to holiday parties, The Right Place can do it all! 
+                        </p>
+                        <!-- Button to take to booking page -->
+                        <a href="Booking.aspx"><button class="btn btn-primary" href="Booking.aspx">Book Now!</button></a>
+                    </div>
+                </div>
+            </section>
+            
+
+
+            <!-- Amenities Preview -->
+
+            <section class="Amenities-Preview">
+                <div class="subsection-header">
+                    <h2>What Makes Us the Best</h2>
+                </div>
+                <div class="subsection-separator"></div>
+                <div class="subsection">
+                    <div class="subsection-info">
+                        <img class="img-circle subsection-image" src="images/Innovative-Technology.jpeg">
+                        <p class="subsection-title">Innovative Technology</p>
+                        <hr>
+                        <p class="subsection-description">Enhanced audio and visual, HD screens and more. We’ve got the connections to set you up. Need WiFi? We have you covered. Free wifi throughout the buildings!</p>
+                    </div>
+                    <div class="subsection-info subsection-middle">
+                        <img class="img-circle subsection-image" src="images/Open-Vendor-Policy.jpeg">
+                        <p class="subsection-title">Open Vendor Policy</p>
+                        <hr>
+                        <p class="subsection-description">Whatever your style, we accept and accommodate any vendor. Our neutral palette decor allows you to create most anything. Your preference is ours.</p>
+                    </div>
+                    <div class="subsection-info">
+                        <img class="img-circle subsection-image" src="images/Wedding-Ballroom.jpeg">
+                        <p class="subsection-title">Flexible Floor Plans</p>
+                        <hr>
+                        <p class="subsection-description">We offer spacious floor plans, along with options for outdoor events. We make our space meet the needs of your event, large or small, no worries and no hassle.</p>
+                    </div>
+                </div>
+                <div class="subsection-view-more">
+                    <div class="subsection-separator"></div>
+                    <a href="RoomFeaturePage.html"><button class="btn btn-primary">View More</button></a>
+                </div>
+            </section>
+            <!-- /.Amenities-Preview -->
+            
+
+            <!-- Testimonials Preview -->
+            <section class="Testimonies-Preview">
+                <div class="Testimonials-row">
+                    <h1>What People Have To Say</h1>
+                    <hr>
+                    <div class="Autoplay-Testimonials center-mode slider">
+                        <div class="Testimonial">
+                            <p class="Testimonial-Content">This venue is a huge plus for the Stillwater community! It is absolutely stunning and the spaces they have available are perfect for any occasion, plus they have a beautiful patio area you can utilize as well. We just had our Women's Council of Realtor's Fashion Show fundraiser at this venue, and received nothing but wonderful comments about how incredible the place was for the event. I believe it contributed to the success of our fundraiser. You must check this place out!</p>
+                            <h3>Dana McQueary Heintz</h3>
+                            <p class="Testimonial-Source">Ponca City, OK ~ Facebook Review</p>
+                        </div>
+                        <div class="Testimonial">
+                            <p class="Testimonial-Content">I am wowed by the professionalism and the dedication the event staff had in making my end of the year corporate party the best it could be.  Everyone that works at this event center has a wonderful attitude, they work hard and they helped me create an event my guests will never forget! They also gave great suggestions for vendors in the area, all of whom made my event at The Falls Event Center a dream!  Thank you! I can't wait to book another event with you!
+                            </p>
+                            <h3>Rebecca Raboy</h3>
+                            <p class="Testimonial-Source">Edmond, OK ~ Google Review</p>
+                        </div>
+                        <div class="Testimonial">
+                            <p class="Testimonial-Content">Beautiful venue! Staff went above and beyond.  Did all they could to make this day beautiful.</p>
+                            <h3>Maya Williams</h3>
+                            <p class="Testimonial-Source">Fresno, CA ~ Google Review</p>
+                        </div>
+                        <div class="Testimonial">
+                            <p class="Testimonial-Content">I had My daughters Quinceañera at The Right Place this June 24th . I cant say enough. The staff was so amazing! everyone was very  helpful, super sweet people. Thank you sooo much. you guys are awesome!</p>
+                            <h3>Erica Toscano</h3>
+                            <p class="Testimonial-Source">Amarillo, TX ~ Google Review</p>
+                        </div>
+                        <div class="Testimonial">
+                            <p class="Testimonial-Content">I am very impressed with The Right Place event center, The Building is so clean and beautiful for any event. I have been to The Right Place for Weddings and also Business Retreats and Corporate Networking Meetings. The staff are always pleasant and will go out of their way to assist. I highly recommend The Right Place.</p>
+                            <h3>Splendor Sargent</h3>
+                            <p class="Testimonial-Source">Hinton, OK ~ Google Review</p>
+                        </div>
+                        <div class="Testimonial">
+                            <p class="Testimonial-Content">Heck yeah!</p>
+                            <h3>Kim Strom</h3>
+                            <p class="Testimonial-Source">Stillwater, OK ~ Grading Rubric</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="Testimonial-View-More">
+                </div>
+            </section>
+            
+            <section class="Contact-Preview">
+                <div class="Contact-Content">
+                    <h1>SCHEDULE A TOUR AT ONE OF OUR VENUES TODAY!</h1>
+                    <a href="Contactus.aspx"><button class="btn btn-primary">CONTACT US</button></a>
+                </div>
+            </section>
+        </div>
+    </div>
+    <footer class="site-footer" role="content-info">
+        <div class="row">
+            <div class="footer-container col-md-12 col-sm-12 row">
+                <div class="footer-elements col-md-4 col-sm-12">
+                    <ul class="menu menu-items vertical" role="menubar">
+                        <li id="menu-item-1" class="menu-item">
+                            <a href="landing-page.html">Home</a>
+                        </li>
+                        <li id="menu-item-2" class="menu-item">
+                            <a href="Gallery.aspx">Gallery</a>
+                        </li>
+                        <li id="menu-item-3" class="menu-item">
+                            <a href="RoomFeaturePage.html">Amenities</a>
+                        </li>
+                        <li id="menu-item-4" class="menu-item">
+                            <a href="Booking.aspx">Booking</a>
+                        </li>
+                        <li id="menu-item-6" class="menu-item">
+                            <a href="Aboutus.aspx">About Us</a>
+                        </li>
+                        <li id="menu-item-7" class="menu-item">
+                            <a href="Contactus.aspx">Contact Us</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-location col-md-4 col-sm-12">
+                    <div class="footer-location-container">
+                        <h4>Location</h4>
+                        <div class="footer-location-address office">
+                            <li class="address-title">Office:</li>
+                            <li>Gunderson</li>
+                            <li>Stillwater, OK</li>
+                            <li>74074</li>
+                        </div>
+                        <div class="footer-location-address venue">
+                            <li class="address-title">Venue:</li>
+                            <li>1306 Union Rd.</li>
+                            <li>Stillwater, OK</li>
+                            <li>74075</li>
+                        </div>
+                    </div>
+                </div>
+                <div class="footer-logo col-md-4 col-sm-12">
+                    <a class="footer-image">
+                        <!-- <img src="images/The-Right-Place-Logo-1.png" alt="TRPWhite"> -->
+                        <div class="TRP-Logo">
+                            <h2 class="TRP-The">The</h2>
+                            <h1 class="TRP-Right">Right</h1>
+                            <h1 class="TRP-Place">Place</h1>
+                        </div>
+                    </a>
+                    <h3>Follow us on Facebook!</h3>
+                    <a class="facebook-link" href="https://www.facebook.com/search/top/?g=the%20right%20place" target="_blank">
+                        <i class="fa fa-facebook"></i>
+                        <span>TheRightPlace</span>
+                    </a>
+                </div>
+                <hr>
+                <div class="copyright">
+                    <span>copyright 2017 &nbsp; </span>
+                    <span class="TRP-Brand">The Right Place &nbsp; </span>
+                    <i class="fa fa-rocket">&nbsp;</i>
+                    <span>An &nbsp;</span>
+                    <span class="TRP-Brand" style="color: #ff6600;">Oklahoma State University &nbsp;</span>
+                    <span>Company</span>
+                </div>
+            </div>
+        </div>
+    </footer>
+    
+    <script src="https://code.jquery.com/jquery-2.2.0.min.js" type="text/javascript"></script>
+    <script src="scripts/slick.js" type="text/javascript" charset="utf-8"></script>
+    <script type="text/javascript">
+        $(document).on('ready', function() {
+          $('.center-mode').slick({
+            dots: true,
+            infinite: true,
+            autoplay: true,
+            autoplaySpeed: 3000,
+            speed: 800,
+            centerMode: true,
+            centerPadding: '60px',
+            slidesToShow: 3,
+            adaptiveHeight: false,
+            slidesToScroll: 1,
+            arrows: false,
+            responsive: [
+                {
+                    breakpoint: 768,
+                    settings: {
+                        arrows: false,
+                        centerMode: true,
+                        centerPadding: '40px',
+                        slidesToShow: 1
+                    }
+                },
+                {
+                    breakpoint: 480,
+                    settings: {
+                        arrows: false,
+                        centerMode: true,
+                        centerPadding: '40px',
+                        slidesToShow: 1
+                    }
+                }
+            ]
+
+          })
+        });
+    </script>
+</body>
+</html>

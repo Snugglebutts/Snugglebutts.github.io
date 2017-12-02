@@ -1,0 +1,66 @@
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\csc.exe
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\System.Collections.Immutable.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\System.Reflection.Metadata.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\vbc.exe
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\VBCSCompiler.exe
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\roslyn\VBCSCompiler.exe.config
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\TheRightPlace.dll.config
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\TheRightPlace.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\TheRightPlace.pdb
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\AspNet.ScriptManager.jQuery.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.AI.Agent.Intercept.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.AI.DependencyCollector.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.AI.Web.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.AI.WindowsServer.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.ApplicationInsights.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.AI.DependencyCollector.xml
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.AI.Web.xml
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.AI.WindowsServer.xml
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.ApplicationInsights.xml
+H:\HTML\HTML\TheRightPlace\TheRightPlace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\HTML\HTML\TheRightPlace\TheRightPlace\obj\Debug\TheRightPlace.csprojResolveAssemblyReference.cache
+H:\HTML\HTML\TheRightPlace\TheRightPlace\obj\Debug\TheRightPlace.dll
+H:\HTML\HTML\TheRightPlace\TheRightPlace\obj\Debug\TheRightPlace.pdb
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\csc.exe
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\System.Collections.Immutable.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\System.Reflection.Metadata.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\vbc.exe
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\VBCSCompiler.exe
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\roslyn\VBCSCompiler.exe.config
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\TheRightPlace.dll.config
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\TheRightPlace.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\TheRightPlace.pdb
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\AspNet.ScriptManager.jQuery.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.AI.Agent.Intercept.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.AI.DependencyCollector.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.AI.PerfCounterCollector.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.AI.ServerTelemetryChannel.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.AI.Web.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.AI.WindowsServer.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.ApplicationInsights.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.AI.DependencyCollector.xml
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.AI.ServerTelemetryChannel.xml
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.AI.Web.xml
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.AI.WindowsServer.xml
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.ApplicationInsights.xml
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\obj\Debug\TheRightPlace.csprojResolveAssemblyReference.cache
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\obj\Debug\TheRightPlace.dll
+H:\HTML\HTML\TheRightPlace - Main\TheRightPlace\TheRightPlace\obj\Debug\TheRightPlace.pdb

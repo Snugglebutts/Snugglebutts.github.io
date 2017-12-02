@@ -1,0 +1,24 @@
+﻿body {
+     text-align :left ;
+    color :black ;
+    font-weight :bold;
+}
+hr {
+    border-top: 1px solid #3B3B3B;
+    width: auto;
+}
+.row hr {
+    border-top: 1px solid black;
+    width: 150px;
+    margin-left: 0px;
+}
+.employee {
+    height: 200px;
+    width: 200px;
+    overflow: hidden;
+}
+.employee img {
+    height: 410px;
+    width: 249px;
+    margin: 0px, 0px, 0px, -25px;
+}
